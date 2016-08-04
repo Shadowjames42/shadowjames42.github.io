@@ -8,8 +8,8 @@
 # Site settings
 title: Kase's Site
 email: Kasejames@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Just trying to make a site.
+description: > 
+  This is a personal site created by Kase.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Shadowjames42
