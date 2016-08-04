@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my page!"
+title:  "Post!"
 date:   2016-08-04 12:04:20 -0400
 categories: General Posts
 ---
