@@ -9,8 +9,8 @@
 title: Kase's Site
 email: Kasejames@hotmail.com
 description: > 
-  This is a personal site created by Kase.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Kase's Blog. Enjoy!
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Shadowjames42
 github_username:  Shadowjames42
