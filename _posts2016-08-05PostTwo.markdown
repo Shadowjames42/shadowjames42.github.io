@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Chicago"
+date:   2016-08-05 17:55:00 -0500
+categories: General Posts
+---
+I think I'm going to Chicago tomorrow? Leaving early in the morning with friends to be tourists and act like idiots, that's the life. Semi-sad I just deleted Pokemon GO all of the sudden.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
