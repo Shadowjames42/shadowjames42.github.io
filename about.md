@@ -14,7 +14,7 @@ Favorite color: Forest Green
 
 Favorite movie: Star Wars (all of them, I know that's cheating, but I don't care)
 
-Favorite music genera: Classic Rock/Metal
+Favorite music genre: Classic Rock/Metal
 
 Favorite number: 42
 
