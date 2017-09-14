@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Kase's Site
-email: Kasejames@hotmail.com
+title: Ad test
+email: newthing42@hotmail.com
 description: > 
-  Kase's Blog. Enjoy!
+  Gonna Advertise here now
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shadowjames42.github.io/" # the base hostname & protocol for your site
-twitter_username: Shadowjames42
-github_username:  Shadowjames42
+#twitter_username: Shadowjames42
+#github_username:  Shadowjames42
 
 # Build settings
 markdown: kramdown
